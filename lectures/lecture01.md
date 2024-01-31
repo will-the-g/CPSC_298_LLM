@@ -23,7 +23,7 @@
 - See Canvas Syllabus
 
 ## Homework
--  `git clone git@github.com: # learn how to use ssh!
+-  `git clone git@github.com:jeffrey-l-turner/CPSC_298.git` # learn how to use ssh!
 -  install [aider](https://github.com/paul-gauthier/aider) 
 - hook into Discord (instructions to be provided via Canvas/Discord)
 
