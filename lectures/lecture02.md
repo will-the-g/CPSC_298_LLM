@@ -138,3 +138,4 @@ This example demonstrates how type theory can contribute to secure and well-stru
 
 ## References:
 - [Formal Specifcation Example](formalspec.md)
+- [Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg)

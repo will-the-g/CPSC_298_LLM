@@ -24,7 +24,8 @@
 
 ## Homework
 -  `git clone git@github.com:jeffrey-l-turner/CPSC_298.git` # learn how to use ssh!
--  install [aider](https://github.com/paul-gauthier/aider) 
+- [see https://docs.github.com/en/authentication/connecting-to-github-with-ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- install [aider](https://github.com/paul-gauthier/aider) 
 - hook into Discord (instructions to be provided via Canvas/Discord)
 
 ## Other Details:
