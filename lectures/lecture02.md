@@ -9,7 +9,7 @@
 ## Notes
 
 <div align="center">
-  <img src="./LLM_coding_process.png" width="250" height="225" />
+  <img src="./LLM_coding_process.png" width="400" height="365" />
 </div>
 Using Formal Methods with Type Theory, Specification, and Testing for Large Language Models (LLMs)
 Integrating formal methods with type theory, specification, and testing offers exciting possibilities for improving the development and reliability of LLMs. Here's how they can be used together:
