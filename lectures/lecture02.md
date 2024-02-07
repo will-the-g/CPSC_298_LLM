@@ -2,6 +2,8 @@
 
 ## Housekeeping
 - NixOS
+- Warp now available on Linux (& thus WSL)
+- Discord invite is on Canvas
 
 ## Notes
 Using Formal Methods with Type Theory, Specification, and Testing for Large Language Models (LLMs)
@@ -126,6 +128,7 @@ This example demonstrates how type theory can contribute to secure and well-stru
 
 ## Homework
 - hook into Discord (instructions to be provided via Discord)
-- 
+- Use your preferred language to improve the sample code above with `SecureString`. Submit a pull request with your code to your own forked repo and mark me as a reviewer. Assignment is due by this coming Monday the 12th at 7PM.
 
 ## References:
+- TBD
