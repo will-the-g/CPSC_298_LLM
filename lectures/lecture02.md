@@ -1,6 +1,7 @@
 # Lecture 2 - Feb. 7, 2024
 
 ## Housekeeping
+- NixOS
 
 ## Notes
 Using Formal Methods with Type Theory, Specification, and Testing for Large Language Models (LLMs)
@@ -48,13 +49,83 @@ Tools such as git help in backtracking. With coding assistance, being able to tr
 - Notes and assignments on GitHub
 - GitHub centric problems
 
+## Examples
+### TypeScript Example with Type Theory
+
+** Scenario:** You're building a TypeScript web application requiring user authentication. You want LLM help to write secure code.
+
+** Prompt:**
+
+"Write a function in TypeScript to handle user login using secure password hashing. Define interfaces for User, LoginCredentials, and HashedPassword. Ensure type safety to prevent common security vulnerabilities like SQL injection."
+
+** LLM with Type Inference: **
+
+Similar to the Python example, this LLM can infer basic types but relies on external information for security. It defines interfaces for `User`, `LoginCredentials`, and `HashedPassword`:
+
+```typescript
+interface User {
+  username: string;
+  password: string; // This could be improved to a SecureString type
+}
+
+interface LoginCredentials {
+  username: string;
+  password: string;
+}
+
+interface HashedPassword {
+  // Type details specific to the chosen hashing algorithm
+}
+```
+
+It then generates the login function with basic type annotations:
+
+```typescript
+function login(credentials: LoginCredentials): boolean {
+  const hashedPassword: HashedPassword = hashPassword(credentials.password); // Consult type library for secure hashing
+  // ... (code to compare hashedPassword with stored value)
+}
+```
+
+**LLM with Advanced Type Knowledge:**
+
+This LLM goes further, leveraging type theory for enhanced security:
+
+```typescript
+interface Email {
+  value: string; // Enforce email format validation
+}
+
+interface SecureString {
+  value: string; // Enforce password length, character requirements, etc.
+}
+
+interface HashedPassword {
+  algorithm: string;
+  value: string;
+}
+
+function login(credentials: { username: Email; password: SecureString }): boolean {
+  const hashedPassword: HashedPassword = secureHashPassword(credentials.password);
+  // ... (code with explicit type checks for security-sensitive operations)
+}
+```
+
+**Benefits of Type Theory in TypeScript:**
+
+* **Stronger type safety:** TypeScript's structural typing enforces stricter type constraints compared to Python's dynamic typing.
+* **Built-in type features:** TypeScript's interfaces, generics, and optional types enable more expressive and secure type definitions.
+* **Improved developer experience:** Clear type annotations enhance code readability and maintainability.
+
+**Challenges and Future Directions:**
+
+* LLMs need training on large TypeScript codebases with robust type annotations.
+* Integrating type theory concepts like dependent types into LLMs could offer even stronger guarantees.
+
+This example demonstrates how type theory can contribute to secure and well-structured code in TypeScript with LLM assistance. As LLMs become more adept at understanding and utilizing type systems, they can become valuable tools for developers seeking to write secure and maintainable TypeScript applications.
+
 ## Homework
 - hook into Discord (instructions to be provided via Discord)
 - 
-
-## Other Details:
-- IDE: VS Code or Vim preferred
-- NixOS
-- Discord for Communication
 
 ## References:
