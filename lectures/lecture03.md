@@ -3,7 +3,7 @@
 ## Housekeeping
 - [How to hook in Discord](https://gist.github.com/SGTGunner/50d6a3cc0d489cf779f77695ba3e22ea)
 - AzureAI - credit usage being determined
-- GitHub collaborators
+- GitHub collaborators; I will need to accept your invite.
 - Setting up Aider
 - May be using local LLM training w/Aider (poll)
 - Still working on NixOS Flake
