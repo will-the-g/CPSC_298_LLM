@@ -7,13 +7,15 @@
 - Setting up Aider
 - May be using local LLM training w/Aider (poll)
 - Still working on NixOS Flake
+- Class lecture videos to be posted in link on Discord/Canvas. DM me if you need last weeks lecture.
 - Quiz to be placed on Discord/Canvas...
 - Where everyone should be:
-- * Core repo cloned and forked
+- * Core repo cloned and forked; ssh keys setup
 - * Aider installed
 - * Added GitHub user jeffrey-l-turner to your forked repo
 - * Discord CI channel notifications for push pull
 - * Pull Request for homework submitted to YOUR fork, not mine...
+- * If on Windows, WSL installed and used
 
 ## Class Notes - Language, Code & Symbol Manipulation
 
@@ -47,7 +49,7 @@ Denotational Semantics: The most abstract of the three, denotational semantics, 
 
 Each of these semantic frameworks can complement the others, providing a multi-faceted understanding that LLMs can exploit to offer precise and context-aware coding assistance.
 
-The only programming languages that have almost complete formal specification are: Haskell, OCaml, Rholang, and Coq. Ada, Spark, and F* are also nearly fully specified.
+The only programming languages that have almost complete formal specification are: Ada, Standard ML, and Scheme. Haskell, OCaml, Rholang, Spark, and F* are also on track to full formal specifation. This is important in the context of correct by construction coding techniques to be used with AI.
 
 5. Coding Assistance Future Directions
 
