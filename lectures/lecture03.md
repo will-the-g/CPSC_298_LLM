@@ -9,11 +9,11 @@
 - Still working on NixOS Flake
 - Quiz to be placed on Discord/Canvas...
 - Where everyone should be:
-* Core repo cloned and forked
-* Aider installed
-* Added GitHub user jeffrey-l-turner to your forked repo
-* Discord CI channel notifications for push pull
-* Pull Request for homework submitted to YOUR fork, not mine...
+** Core repo cloned and forked
+** Aider installed
+** Added GitHub user jeffrey-l-turner to your forked repo
+** Discord CI channel notifications for push pull
+** Pull Request for homework submitted to YOUR fork, not mine...
 
 ## Class Notes - Language, Code & Symbol Manipulation
 
