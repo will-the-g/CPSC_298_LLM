@@ -1,12 +1,19 @@
 # Lecture 2 - Feb. 14, 2024
 
 ## Housekeeping
-- still working on NixOS Flake
 - [How to hook in Discord](https://gist.github.com/SGTGunner/50d6a3cc0d489cf779f77695ba3e22ea)
 - AzureAI - credit usage being determined
 - GitHub collaborators
 - Setting up Aider
+- May be using local LLM training w/Aider (poll)
+- Still working on NixOS Flake
 - Quiz to be placed on Discord/Canvas...
+- Where everyone should be:
+* Core repo cloned and forked
+* Aider installed
+* Added GitHub user jeffrey-l-turner to your forked repo
+* Discord CI channel notifications for push pull
+* Pull Request for homework submitted to YOUR fork, not mine...
 
 ## Class Notes - Language, Code & Symbol Manipulation
 
@@ -32,13 +39,15 @@ During the training of LLMs, type theory can be leveraged to enforce constraints
 
 To further refine the capabilities of LLMs in coding assistance, we delve into the realm of formal semantics. These are the rigorous frameworks that define the meaning of programming constructs. They are not merely academic exercises but serve as essential tools for ensuring that LLMs can reason about code with mathematical precision.
 
-Axiomatic Semantics: Here, we provide LLMs with a set of axioms and inference rules, akin to teaching the rules of a game. These rules allow the models to verify whether certain properties hold before and after a piece of code is executed.
+Axiomatic Semantics: LLMs are given a set of axioms and inference rules, akin to teaching the rules of a game. These rules allow the models to verify whether certain properties hold before and after a piece of code is executed.
 
 Operational Semantics: This approach gives LLMs a step-by-step playbook on how a program changes state. By understanding these transitions, LLMs can simulate the execution of code snippets, thereby predicting and suggesting the outcomes of code execution.
 
 Denotational Semantics: The most abstract of the three, denotational semantics, equips LLMs with a high-level map, translating programming constructs to mathematical objects. This enables the models to grasp the essence of a program's behavior and provide higher-order reasoning about the code.
 
 Each of these semantic frameworks can complement the others, providing a multi-faceted understanding that LLMs can exploit to offer precise and context-aware coding assistance.
+
+The only programming languages that have almost complete formal specification are: Haskell, OCaml, Rholang, and Coq. Ada, Spark, and F* are also nearly fully specified.
 
 5. Coding Assistance Future Directions
 
