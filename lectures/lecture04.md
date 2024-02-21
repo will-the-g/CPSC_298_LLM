@@ -27,8 +27,8 @@ When one user requested help with a coding issue, the chatbot wrote back a rambl
 ```
 - Notes from Dr. Vivek Haldar's talk Monday:
 - * RAGs and Context Windows
-- Research Papers on Subject
-- Practical elements for students and in industry
+- * Research Papers on Subject
+- * Practical elements for students and in industry
 
 ## Class Notes - LLMs, Tokenizers, Mixture of Experts, and Code Assistance
 
