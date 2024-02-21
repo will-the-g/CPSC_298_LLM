@@ -46,6 +46,8 @@ Note Diagram. From [Andrej Karpathy](https://karpathy.ai/) [see](https://www.you
 • What is the root of my LLM suffering? 
 ```
 
+## Assignment
+- Use [tiktokenizer](https://tiktokenizer.vercel.app/) to with code and place results in pull request (PR). In your own words, describe with the tokenized description how LLMs, tokenizers, mixture of experts, and Coding Assistance fits together. I will be looking for a description in the PR.
 
 ## References:
 - [Transformers, Tokenization, and Embedding](https://vaclavkosar.com/ml/transformer-embeddings-and-tokenization)
