@@ -47,7 +47,8 @@ Note Diagram. From [Andrej Karpathy](https://karpathy.ai/) [see](https://www.you
 ```
 
 ## Assignment
-- Use [tiktokenizer](https://tiktokenizer.vercel.app/) to with code and place results in pull request (PR). In your own words, describe with the tokenized description how LLMs, tokenizers, mixture of experts, and Coding Assistance fits together. I will be looking for a description in the PR.
+- Use [tiktokenizer](https://tiktokenizer.vercel.app/) to with code and place results in (new branch &) pull request (PR). In your own words, describe with the tokenized description how LLMs, tokenizers, mixture of experts, and Coding Assistance fits together. I will be looking for a description in the PR.
+- Bonus credit: ask your favorite coding assistant AI to write 3 modules: tokenizer, MoE, and simple neural network to assist with coding. [See Andrej Karpathy's YouTube channel](https://www.youtube.com/watch?v=zduSFxRajkE). Put in a separate PR with different branch.
 
 ## References:
 - [Transformers, Tokenization, and Embedding](https://vaclavkosar.com/ml/transformer-embeddings-and-tokenization)
