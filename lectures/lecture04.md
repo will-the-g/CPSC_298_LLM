@@ -36,7 +36,7 @@ Will be experimenting with: [tiktokenizer](https://tiktokenizer.vercel.app/)
 
 Note Diagram. From [Andrej Karpathy](https://karpathy.ai/) [see](https://www.youtube.com/watch?v=zduSFxRajkE):
 ```
-• Mhy cant LUM spell worn? 
+• Mhy cant LUM spell well? 
 • Why cant LLM do super string processing like inverting a string?
 • Why are LLMs bad at simple arithmetic? 
 • Why dd GPT-2 have more trouble with coding in Python 2? 
