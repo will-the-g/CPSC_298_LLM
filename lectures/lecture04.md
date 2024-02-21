@@ -1,7 +1,7 @@
 # Lecture 4 - Feb. 21, 2024
 
 ## Housekeeping
-- Revisit Pull Requests and Assignment (& my Time Commitment)
+- Revisit Pull Requests and Assignment (& my Time Commitment -- will start using CI channel in Discord for notifications)
 - [Revisit How to hook in Discord](https://gist.github.com/SGTGunner/50d6a3cc0d489cf779f77695ba3e22ea)
 - AzureAI - Unable to assign API keys currently
 - GitHub collaborators; Only about half class has added me as collaborator
