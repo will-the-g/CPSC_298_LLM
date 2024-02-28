@@ -36,7 +36,7 @@ git push origin # on your cloned repo to your fork
 </div>
 
 ### Building Blocks
-<div align="center">
+<div align="center" style="background-color: #f2f2f2">
   <img src="../docs/drawings/Building_blocks_llm_transformer.png" width="400" height="365" />
 </div>
 
