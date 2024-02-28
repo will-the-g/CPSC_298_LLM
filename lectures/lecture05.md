@@ -29,6 +29,7 @@ git push origin # on your cloned repo to your fork
 - Positional Encoding
 - Feedfoward Networks
 - Attention
+- Context Window
 
 ### Evolution
 <div align="center">
@@ -53,8 +54,14 @@ Note Diagram. From [Andrej Karpathy](https://karpathy.ai/) [see](https://www.you
 • What is the root of my LLM suffering? 
 ```
 
+- [Dr. Vivek Haldar's Presentation](https://docs.google.com/presentation/d/1MJDj0ClOdkJ82_uIqpciVHd_aTz8uPA_9HvAAm3bYqs/edit#slide=id.g251cd9882c6_0_42)
+
 ## References:
 - [Andrej Karpathy part II](https://youtu.be/zduSFxRajkE?si=2lUFNJM1ke96fTQd)
 - [Transformers, Tokenization, and Embedding](https://vaclavkosar.com/ml/transformer-embeddings-and-tokenization)
 - [Type Theory and LLM](https://medium.com/@andrew_johnson_4/harnessing-the-power-of-type-theory-in-large-language-models-351691ca2644) {behind pay wall}
 - [Embeddings and LLMs](https://datasciencedojo.com/blog/embeddings-and-llm/)
+- [Transformers to Prompts](https://www.holisticai.com/blog/from-transformer-architecture-to-prompt-engineering)
+- [Transfomers Visually Part I](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
+- [Transfomers Visually Part II](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
+- [Transformers Visually Part III](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
