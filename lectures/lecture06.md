@@ -47,7 +47,7 @@ git push origin # on your cloned repo to your fork
 
 ### Inference and Training
 <div align="center">
-  <img src="../docs/drawings/Training_and_inference.jpg" width="400" height="365" />
+  <img src="../docs/drawings/Training_and_inference.jpg" width="600" height="365" />
 </div>
 
 ## From previous class
