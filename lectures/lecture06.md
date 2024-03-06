@@ -37,12 +37,12 @@ git push origin # on your cloned repo to your fork
 
 ### Backpropagation
 <div align="center">
-  <img src="../docs/drawings/BackPropagation.webp" width="400" height="365"/>
+  <img src="../docs/drawings/BackPropagation.jpg" width="400" height="365"/>
 </div>
 
 ### Feedforward ANNs
 <div align="center">
-  <img src="../docs/drawings/ANN_feedforward.png" width="400" height="365" />
+  <img src="../docs/drawings/ANN_feedforward.jpg" width="400" height="365" />
 </div>
 
 ## From previous class
