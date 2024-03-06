@@ -11,7 +11,7 @@
 - * Core repo cloned and forked; ssh keys setup
 - * Added GitHub user jeffrey-l-turner as a collaborator to your forked repo
 - * Discord CI channel notifications for push pull
-- * Pull Request for homework submitted to YOUR fork, not mine...
+- * Pull Request for homework submitted to YOUR fork, not mine... Should be up to date with GitHub. If not, please DM.
 - * If on Windows, WSL installed and used
 - * Should be able to:
 ```
@@ -25,7 +25,7 @@ git push origin # on your cloned repo to your fork
 
 ## Local LLM Architectures
 - User Interface and eXperience (UI & UX)
-- Command Line Reproducibility (comparing to Copilot)
+- Command Line Reproducibility (comparison to Copilot)
 - Training
 - * Backpropagation
 - * Weights and Biases
@@ -35,14 +35,14 @@ git push origin # on your cloned repo to your fork
 - Attention
 - Context Window
 
-### Evolution
+### Backpropagation
 <div align="center">
-  <img src="../docs/drawings/LLM_Evolutionary_tree.jpg" width="400" height="365" />
+  <img src="../docs/drawings/BackPropagation.webp" width="400" height="365"/>
 </div>
 
-### Building Blocks
+### Feedforward ANNs
 <div align="center">
-  <img src="../docs/drawings/Building_blocks_llm_transformer.jpg" width="400" height="365"/>
+  <img src="../docs/drawings/ANN_feedforward.png" width="400" height="365" />
 </div>
 
 ## From previous class
