@@ -45,6 +45,11 @@ git push origin # on your cloned repo to your fork
   <img src="../docs/drawings/ANN_feedforward.jpg" width="400" height="365" />
 </div>
 
+### Inference and Training
+<div align="center">
+  <img src="../docs/drawings/Training_and_inference.jpg" width="400" height="365" />
+</div>
+
 ## From previous class
 Note Diagram. From [Andrej Karpathy](https://karpathy.ai/) [see](https://www.youtube.com/watch?v=zduSFxRajkE):
 ```
