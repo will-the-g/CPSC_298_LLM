@@ -11,17 +11,29 @@
 - User Interface: TBD with Aider 
 
 ### Survey of Technologies and Approaches
-- * 
+- * GitHub Copilot
+- * Aider
+- * Deepseek
+- * Open AI
+- * Google Gemini
+- * Claude 3.5 (Anthropic)
+- * Hugging Face
+- * Mistral/Mixtral
+- * Notable Mention: OpenRouter...
 
 ### Pre-Trained Coding Models 
 
+### Overfitting
+- * [See Overfitting](https://aws.amazon.com/what-is/overfitting/)
+
+### Fine Tuning
+- * [Finetuning](https://medium.com/@amanatulla1606/fine-tuning-the-model-what-why-and-how-e7fa52bc8ddf)
 
 ### Spring Break Assignment (Due in two weeks -- March 30th)
-- Going to follow [Hugging Face](https://huggingface.co/blog/personal-copilot)
-- Create PR under [../assignments/HuggingFace]
+- Going to follow [Hugging Face](https://huggingface.co/blog/personal-copilot#how-do-i-run-it-locally)
+- Create PR under [../assignments/HuggingFace] using your Local LLM setup. (Students will do this differently)
 
 ## References:
-
 - [Hugging Face]()
 - [Aider on Discord](https://discord.com/channels/1131200896827654144/1133060780649087048/1216657830539563088)
-- [
+- [Final Assignment Dataset](https://huggingface.co/datasets/sayakpaul/hf-codegen-v2)
