@@ -2,7 +2,7 @@
 
 ## Housekeeping
 - Quiz Results
-- Reminder Should be able to install [Warp under WSL](https://github.com/warpdotdev/Warp/issues/4240#issuecomment-1960429829)
+- Reminder Should be able to install [Warp under WSL](https://github.com/warpdotdev/Warp/issues/4240#issuecomment-1960429829) -- This will ease your assignments and GitHub interface issues
 - * Open AI/Altman nuances: https://www.youtube.com/watch?v=snbTCWL6rxo
 - * Claude 3 out from Anthropic (performs well with coding)
 
@@ -22,6 +22,7 @@
 - * Notable Mention: OpenRouter...
 
 ### Pre-Trained Coding Models 
+- For us: [Hugging Face](https://huggingface.co/)
 
 ### Overfitting
 - * [See Overfitting](https://aws.amazon.com/what-is/overfitting/)
