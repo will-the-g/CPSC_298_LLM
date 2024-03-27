@@ -30,3 +30,9 @@
 
 ### Pre-Trained Coding Models 
 - For us: [Hugging Face](https://huggingface.co/)
+
+### Resources
+- [Berman: LM Studio](https://youtu.be/4fdZwKg9IbU?si=nDSbJ_Gh3SesAmJ9)
+- [Devin AI](https://youtu.be/eZJx65ATvs0?si=Y_Fxll1QUNo0vmHD)
+- [Berman on Devin](https://youtu.be/iVbN95ica_k?si=5b-lVvuRS6mKJDYj)
+- [New AI coding assistance comparison](https://youtu.be/cJlM3AIFMaw?si=Xg0EdEEHXK7rzHgR)
