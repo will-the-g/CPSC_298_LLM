@@ -25,6 +25,7 @@
 - Embeddings and Tokens {and Nearest Neighbor (new)}
 - Dot Products (New)
 - Temperature
+- Logits (new)
 - Parameters: Weights and Biases
 - Refeeding LLM with Output for Coding
 - Agentic Approaches
