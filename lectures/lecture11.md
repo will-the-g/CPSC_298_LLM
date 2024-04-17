@@ -6,6 +6,7 @@
 - Class Review of Pull Requests
 - * Which Model
 - * Which Local (or Remote) Chat System
+- * Context Window Comparison
 - * Language, Coding result?
 - Latest Developments
 - * Mixtral 8x22b + Lightning AI
@@ -41,8 +42,9 @@
 ### Lecture
 - Formal Methods and Future Software Tool Chains
 - Agentic Software Management
-- Reasoning about code base
+- Reasoning and Explaining about code base
 - Native Neuromorphic Approaches & new Methods
+- Upcoming Guest Lecturers
 
 ### LM Studio Example
 - Snake Game
