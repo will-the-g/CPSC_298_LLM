@@ -17,9 +17,10 @@
 - * [Google Colab](https://colab.research.google.com/)
 - Another word on Tech Optimism vs. Pessimism
 - * See Khosla (resource below), [C. Wood, Geoffrey Hinton, Ray Kurzweil](https://www.youtube.com/watch?v=zpLc9L7lCCI)
-- Final Exam
+- Final - Asynchronous Exam 
 
 ### Semester Review
+- [A word on "Open Source" vs. "Open Weights"](https://youtu.be/8Ul_0jddTU4)
 - State of the Industry (for AI Coding Assistance) - Front-ends and back-ends
 - * Colab
 - * GitHub Copilot
@@ -32,8 +33,13 @@
 - Running LLM/Transformers Locally; Examples:
 - * LM Studio
 - * JanAI
+- Loadable Models (e.g. Hugging Face standard)
+- * [Signup for Hugging Face](https://huggingface.co/)
+- * [See: Hugging Chat](https://youtube.com/clip/UgkxkaZpN8g9AhJfiiM-YuVHSBykpBrK0jYp?si=ocwuYwlmIze1JX4_);
+- * [in video https://api.together.xyz/](https://api.together.xyz/)
 - Architecture of Models (evolving rapidly, see above)
 - * [A discussion on Routing/Gating](https://g.co/gemini/share/543fcb79bb41)
+- * Future directions for loadable models
 
 ### Final Project
 - Local (or Remote) LLM with Fuzzer to "reinforcement learn" syntax/semantics of Rholang (novel programming language)
