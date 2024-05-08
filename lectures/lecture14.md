@@ -1,4 +1,4 @@
-# Lecture 14 - May 1, 2024
+# Lecture 14 - May 8, 2024
 
 ## Housekeeping
 - Reminder: All PRs should point to your forked repos.
