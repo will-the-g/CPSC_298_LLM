@@ -25,3 +25,10 @@
 
 
 ### Thank you all for participating; It has been a learning experience for us all; A review of next semester...
+- What we've learned:
+- * Coding Assistance & Transformer LLMs with Natural Language
+- * Augmenting these with Formal Techniques
+- * Future Approaches with these Systems
+- * Mixture of Experts and Composable Structures
+- * "Fuzzing"
+- * Implications on Coding Assistance
