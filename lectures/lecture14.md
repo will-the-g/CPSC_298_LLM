@@ -9,7 +9,6 @@
 - * Leader Card Analysis
 - Open Source AI Regulation Updates
 - More info on "Open Source" vs. "Open Weights" vs. "Open Data"
-- Thank you all for participating; It has been a learning experience for us all; A review of next semester...
 
 ### Mixture of Experts and Composition
 - ANNs and AI
@@ -23,3 +22,6 @@
 
 ### Resources
 - [Sample Model Cards](./Chapman_University_model_card.md)
+
+
+### Thank you all for participating; It has been a learning experience for us all; A review of next semester...
